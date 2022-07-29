@@ -3,7 +3,7 @@
     "symbol": "CSK",
     "description": "Fifth sacrifice by UwDegens",
     "seller_fee_basis_points": 1000,
-    "image": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/Yang.png",
+    "image": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/UPDATEYANG.png",
     "external_url": "",
     "attributes": [
         {
@@ -14,7 +14,7 @@
     "properties": {
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/Yang.png",
+                "uri": "https://raw.githubusercontent.com/UnderSand/Yang-Primate/main/UPDATEYANG.png",
                 "type": "image/png"
             }
         ],
